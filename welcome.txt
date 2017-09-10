@@ -1,3 +1,4 @@
 print (welcom)
 print (HI)
 print (HI@)
+print ("hello my dear")
